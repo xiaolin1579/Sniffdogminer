@@ -1,4 +1,4 @@
-# SniffDog-www.zpool.ca , www.MiningPoolHub.com , www.HashRefinery.com , www.ahashpool.com , www.zergpool.com
+# SniffDog-www.zpool.ca , www.MiningPoolHub.com , www.HashRefinery.com , www.ahashpool.com , www.zergpool.com , www.phi-phi-pool.com
 
 *This is Windows software designed for Nvidia 1080ti
 
